@@ -1,6 +1,9 @@
 # McGill University - COMP 551 - Applied Machine Learning
 
-Group Members: Eric Anderson, Yawan Xu, Ali Tapan
+Group Members: 
+- Eric Anderson - https://github.com/eapanthers
+- Yawan Xu - https://github.com/ingridxx
+- Ali Tapan
 
 The content of this repository is composed of the programming assignments given by Prof. Rabbany for the COMP 551 course during the Winter 2020 semester at McGill University. All assignments are written in Python.
 
