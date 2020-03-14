@@ -10,4 +10,5 @@ The content of this repository is composed of the programming assignments given 
 
 ## Contents
 
-- Assignment 1: Implemention and comparison of two classification techniques on 4 different datasets — Logistic Regression and Naive Bayes from scratch, without the use of pre-existing implementations of the algorithms or functions as found in SciKit learn, etc. 
+- Assignment 1: Implemention and comparison of two classification techniques (Logistic Regression and Naive Bayes) on 4 different datasets — These models were built from scratch, without the use of pre-existing implementations or functions as found in SciKit learn or any other library.
+- Assignment 2: Development of models to classify textual data found in 2 datasets, where the inputs were text documents, and output were categorical variables (class labels). These models were built using Logistic Regression, Decision Trees, Support Vector Machines, Ada Boost and Random Forest algorithms.
